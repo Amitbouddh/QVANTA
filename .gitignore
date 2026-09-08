@@ -80,3 +80,7 @@ supabase
 
 # Trae / local screenshots
 screenshots
+
+# Vite config build artifacts
+apps/web/vite.config.js
+apps/web/vite.config.d.ts
